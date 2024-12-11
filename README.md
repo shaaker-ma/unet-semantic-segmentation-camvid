@@ -1,6 +1,8 @@
 # U-Net Semantic Segmentation on CamVid Dataset
 
-
+<p align="center">
+  <img src="assets/Deep_Final.png" alt="semantic" width="540" />
+</p>
 
 This repository implements semantic segmentation using the U-Net architecture on the CamVid dataset. It provides pixel-level classification for images, showcasing U-Net's ability to perform efficient and accurate segmentation in real-world scenarios. The project includes training scripts, pre-processing pipelines, and visualization of segmentation results.
 
